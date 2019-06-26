@@ -72,8 +72,6 @@ Out[4]: True
 - BERT
 - GCN
 
-Feel free to submit a **PR** request to make this repo. more complete!
- 
 
 
 
@@ -88,23 +86,3 @@ Our work is not built from scratch. Great appreciation to these open works！
 - https://github.com/Viredery/tf-eager-fasterrcnn
 - https://github.com/github/gitignore/blob/master/Python.gitignore
 - 
-
-# 配套视频教程
-
-<p align="center">
-  <a href="https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=dca16f8fd11a4525bac8c89f779b2cfa">
-    <img src="res/cover.png" width="400">
-  </a>
-  
-  <a href="https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=dca16f8fd11a4525bac8c89f779b2cfa">
-    <img src="res/TF_QR_163.png">
-  </a>
-</p> 
-
-TensorFlow 2.0的视频教程链接：[深度学习与TensorFlow 2实战](https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=dca16f8fd11a4525bac8c89f779b2cfa)
-
-
-# Acknowledgement
-- 爱可可-爱生活 友情推荐 ![](res/weibo.jpg)
-
-
