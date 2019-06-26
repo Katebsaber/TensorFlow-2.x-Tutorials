@@ -1,6 +1,4 @@
 # TensorFlow 2.0 Tutorials 
-Our repo. is the **Winner** of [⚡#PoweredByTF 2.0 Challenge!](https://devpost.com/software/tensorflow-2-0-tutorials), and will share **$150,000** prizes with other winners.
-
 
 <p align="center">
   <img src="res/tensorflow-2.0.gif" width="250" align="middle">
@@ -85,4 +83,3 @@ Our work is not built from scratch. Great appreciation to these open works！
 - https://github.com/moono/tf-eager-on-GAN
 - https://github.com/Viredery/tf-eager-fasterrcnn
 - https://github.com/github/gitignore/blob/master/Python.gitignore
-- 
